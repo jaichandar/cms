@@ -1,0 +1,28 @@
+{
+  "name": "cms-service",
+  "version": "1.0.0",
+  "description": "college management system",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaichandar/cms.git"
+  },
+  "keywords": [
+    "cms",
+    "college",
+    "management",
+    "system",
+    "student",
+    "college",
+    "staff"
+  ],
+  "author": "jaichandar.d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaichandar/cms/issues"
+  },
+  "homepage": "https://github.com/jaichandar/cms#readme"
+}
